@@ -1,3 +1,3 @@
 # QuizApp
-this is a project as
+this is a project ...
 Liana 
